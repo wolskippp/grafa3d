@@ -1,0 +1,9 @@
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\OpenTKTutorial5\OpenTKTutorial5\bin\Debug\fs.glsl
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\OpenTKTutorial5\OpenTKTutorial5\bin\Debug\vs.glsl
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\OpenTKTutorial5\OpenTKTutorial5\bin\Debug\OpenTKTutorial5.exe
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\OpenTKTutorial5\OpenTKTutorial5\bin\Debug\OpenTKTutorial5.pdb
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\OpenTKTutorial5\OpenTKTutorial5\bin\Debug\OpenTK.dll
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\OpenTKTutorial5\OpenTKTutorial5\bin\Debug\OpenTK.xml
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\OpenTKTutorial5\OpenTKTutorial5\obj\x86\Debug\OpenTKTutorial5.csprojResolveAssemblyReference.cache
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\OpenTKTutorial5\OpenTKTutorial5\obj\x86\Debug\OpenTKTutorial5.exe
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\OpenTKTutorial5\OpenTKTutorial5\obj\x86\Debug\OpenTKTutorial5.pdb

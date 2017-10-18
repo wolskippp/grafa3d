@@ -1,0 +1,13 @@
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\Grafika3dProjekt1\OpenTKTutorial5\bin\Debug\fs.glsl
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\Grafika3dProjekt1\OpenTKTutorial5\bin\Debug\vs.glsl
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\Grafika3dProjekt1\OpenTKTutorial5\bin\Debug\Grafika3dProjekt1.exe
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\Grafika3dProjekt1\OpenTKTutorial5\bin\Debug\Grafika3dProjekt1.pdb
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\Grafika3dProjekt1\OpenTKTutorial5\bin\Debug\OpenTK.dll
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\Grafika3dProjekt1\OpenTKTutorial5\bin\Debug\OpenTK.xml
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\Grafika3dProjekt1\OpenTKTutorial5\obj\x86\Debug\Grafika3dProjekt1.csprojResolveAssemblyReference.cache
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\Grafika3dProjekt1\OpenTKTutorial5\obj\x86\Debug\Grafika3dProjekt1.exe
+C:\Users\wpiot\Source\Repos\OpenTKTutorialContent\Grafika3dProjekt1\OpenTKTutorial5\obj\x86\Debug\Grafika3dProjekt1.pdb
+C:\Users\wpiot\Desktop\Grafika3dProjekt1\OpenTKTutorial5\obj\x86\Debug\Grafika3dProjekt1.exe
+C:\Users\wpiot\Desktop\Grafika3dProjekt1\OpenTKTutorial5\obj\x86\Debug\Grafika3dProjekt1.pdb
+C:\Users\wpiot\Desktop\Grafika3dProjekt1\Grafika3dProjekt1\obj\x86\Debug\Grafika3dProjekt1.exe
+C:\Users\wpiot\Desktop\Grafika3dProjekt1\Grafika3dProjekt1\obj\x86\Debug\Grafika3dProjekt1.pdb
